@@ -1,0 +1,67 @@
+body{
+    font-family:'Lato', sans-serif;
+}
+#main{
+    background-color: #e0e0e0;
+    
+}
+
+#title{
+    text-align: center;
+}
+#title p{
+    padding-bottom: 20px;
+}
+#title h1{
+    padding-top: 30px;
+    font-size: 3rem;
+    
+}
+/* Image */
+
+#img-div{
+    background: white;
+    margin: 0;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img-div img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#img-caption{
+    text-align: center;
+}
+
+/* Tribute Info */
+
+#tribute-info{
+    max-width: 600px;
+    margin: 0 auto 50px auto;
+     
+}
+
+#tribute-info h3{
+    text-align: center;
+    padding: 30px;
+}
+
+#tribute-info li{
+    padding: 10px;
+}
+
+#last-paragraph{
+    padding: 20px;
+    font-style: italic;
+}
+
+#tribute-link{
+    text-align: center;
+    padding-bottom: 40px;
+}
